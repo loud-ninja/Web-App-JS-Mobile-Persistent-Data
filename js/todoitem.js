@@ -8,7 +8,7 @@ export default class ToDoItem {
         return this._id;
     }
 
-    setid(id) {
+    setId(id) {
         this._id = id;
     }
 
